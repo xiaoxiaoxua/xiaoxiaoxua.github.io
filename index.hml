@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="utf-8">
+<title>xuxiaoc</title>
+</head>
 <body>
-
-<?php
-echo "Hello World!";
-?>
-
+    <h1>frist</h1>
+    <p>cc</p>
 </body>
 </html>
